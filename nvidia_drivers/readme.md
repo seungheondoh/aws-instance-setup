@@ -12,6 +12,10 @@ bash prerequisite.sh
     - current case: pytorch 2.1.2, cuda 12.1
     - https://developer.nvidia.com/cuda-12-1-0-download-archive
 
-```
-ubuntu-drivers devices
-```
+### Cuda
+
+### Cudnn
+- 
+
+### Core Reference
+- https://guide.ncloud-docs.com/docs/server-gpuserver-vpc
