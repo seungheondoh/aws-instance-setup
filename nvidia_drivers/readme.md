@@ -1,3 +1,9 @@
+### Hardware and Software Requirements
+
+- Device: A100-40GB/80GB	
+- Torch Version: 2.1.0	
+- Cuda Version: 12.1
+
 ### Install Prerequisite
 
 ```
