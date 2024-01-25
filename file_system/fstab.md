@@ -1,5 +1,6 @@
 ```
-check fdisk -l
+# check 
+fdisk -l
 ```
 
 ``` 
